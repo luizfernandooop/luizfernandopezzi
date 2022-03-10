@@ -1,5 +1,7 @@
 ## 👋 Welcome to my Github profile.
-### My name is Luiz Fernando Pezzi and my first words are: "Hello World"! :smile:
+### My name is Luiz Fernando Pezzi and I would like to say: "Hello World"! :grin:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 
 <!--
 **luizfernandopezzi/luizfernandopezzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
