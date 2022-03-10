@@ -1,11 +1,15 @@
 ## 👋 Welcome to my Github profile.
 ### My name is Luiz Fernando Pezzi and I would like to say: "Hello World"! :grin:
 
-🔭 I’m currently working as a Mechanical Engineer designing semi-trailers at Randon SA.
+🔭 I’m currently working as a Mechanical Engineer designing semi-trailers at Randon SA;
 
-🌱 I’m currently learning everything about the Full Stack Developement universe! My focus is ReactJS, VueJS, NodeJS, NextJS and Jest.
+🌱 I’m currently building my path to become a f* awesome Full Stack Developer. I love to code and make things work! Most of the time I am debugging :grin:, however, the most I learn the more I love it!
 
-:computer: I need to confess that I really enjoy code with JavaScript and its frameworks! React is the loved one!
+:computer: I need to confess that I really enjoy to code with JavaScript and its frameworks! React is the loved one! I also focus on ReactJS, VueJS, NodeJS, NextJS, Jest, SQL and TypeScript (mindblowing learning path but really excellent tool!);
+
+<p align="center">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+</p>
 
 ⚡ Fun fact: I really love to learn new subjects and I am very curious about how the things work!
 
