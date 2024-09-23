@@ -1,5 +1,5 @@
 ## 👋 Welcome to my Github profile.
-### My name is Luiz Fernando Pezzi and I would like to say: "Hello World"! :grin:
+### My name is Luiz Fernando and I would like to say: "Hello World"! :grin:
 
 🔭 I’m currently working as a Mechanical Engineer designing semi-trailers at Randon SA;
 
