@@ -1,9 +1,9 @@
 ## 👋 Welcome to my Github profile.
 ### My name is Luiz Fernando and I would like to say: "Hello World"! :grin:
 
-🔭 I’m currently working as a Mechanical Engineer designing semi-trailers at Randon SA;
+🔭 I’m currently working as a Mechanical Engineer;
 
-🌱 I’m currently building my path to become a f* awesome Full Stack Developer. I love to code and make things work! Most of the time I am debugging :grin:, however, the most I learn the more I love it!
+🌱 I’m currently building my path to become an awesome Full Stack Developer. I love to code and make things work! Most of the time I am debugging :grin:, however, the most I learn the more I love it!
 
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
