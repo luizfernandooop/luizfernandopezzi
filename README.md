@@ -9,7 +9,7 @@
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 </p>
 
-:computer: I really enjoy to code with Pythin, JavaScript and its frameworks! React is the loved one! I also focus on VueJS, NodeJS, NextJS, Jest, SQL and TypeScript (mindblowing learning path but really excellent tool!);
+:computer: I really enjoy to code with Python, JavaScript and its frameworks! React is the loved one! I also focus on VueJS, NodeJS, NextJS, Jest, SQL and TypeScript (mindblowing learning path but really excellent tool!);
 
 ⚡ Fun fact: I really love to learn new subjects and I am very curious about how the things work!
 
